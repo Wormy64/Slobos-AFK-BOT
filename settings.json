@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "ASFCC.aternos.me",
-    "port": 60804,
+    "port":60804,
     "version": "1.20.1"
   },
   "position": {
